@@ -112,23 +112,23 @@ Excel, PowerPoint, Python(pandas, NumPy, matplotlib,seaborn, BeautifulSoup)
 
 Academia(grad school): (though a lot more will follow this are the ones done as of date)
 Projects Done: 
-      - Feature Engineering Real Estate Analytics
+  - Feature Engineering Real Estate Analytics
 	*Find the factors that influence price negotiations for house prices
 	*Train and perform prediction on a dataset
 	
-      - Real Estate(Mortgage)
+  - Real Estate(Mortgage)
 	*Identify white spaces/potential business in the mortgage loan
 	*Provide actionable insights from the perspective Real Estate Analysis
 	*Dashboard(demonstrate relationships and trends for the key metrics)
 	
-	- Healthcare
+  - Healthcare
 	*Accurately predict whether the patients in the dataset have diabetes or not
 
-	- Social Media 
+  - Social Media 
 	*Helping to  create a comprehensive report that analyzes the performance of different categories of social media posts
 	*Data-driven recommendations to clients to improve their social media performance
 
-	- Customer Service
+  - Customer Service
 	*Utilize data wrangling techniques to understand the pattern in the data and visualize the major types of complaints
 	*Statistical analysis using p-values and chi-square values
 	*Kruskal-Wallis H
