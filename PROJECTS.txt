@@ -1,9 +1,152 @@
-Project 
+Domain: Retail
+Nature of Organization: Company that sells to wholesalers, products are mainly gifts(for all-occasions). 
 
-Project Objective
+Task Performed
+   -preliminary data inspection and cleaning
+   -missing data, duplicates treatment and imputation
+   -perform descriptive analytics
+   -exploratory data analysis EDA
+   -data visualization
 
-Project Task Performed
+Goal: Analyze their Customer Value via RFM(recency, frequency, monetary)
+         -“customer segmentation”-
 
-Project Technology Used
--python
--oracle
+Technology Used:
+Excel, Python(pandas, NumPy, scikit-learn, matplotlib, seaborn)
+
+--------------------***--------------------
+
+Domain: Finance
+Nature of Organization: An investment firm 
+
+Task Performed
+   -extract data via python library and via web scrapping
+   -preliminary data inspection 
+   -perform descriptive analytics
+   -exploratory data analysis EDA
+   -data visualization
+
+Goal: Dashboard visualization and to identify patterns or trends, derive inferences on stocks for investing “advice” 
+
+Technology Used:
+Excel, Notepad++, Python(pandas, NumPy, yfinance, matplotlib, seaborn, BeautifulSoup, Plotly), Watson Studio
+
+--------------------***--------------------
+
+Domain: IT
+Nature of Organization: IT Consulting - IT Solutions
+
+Task Performed
+   -extract data via python library and via web scrapping
+   -preliminary data inspection
+   -data wrangling[missing data, duplicates treatment and imputation]
+   -perform descriptive analytics
+   -exploratory data analysis EDA
+   -data visualization and Dashboard creation
+
+Goal: Identify patterns or trends, derive inferences and visualize KPI's on Dashboard
+
+Technology Used:
+Excel, PowerPoint, Python(pandas, NumPy, matplotlib, Plotly, seaborn, BeautifulSoup, SQL ), IBM Cognos Analytics
+
+--------------------***--------------------
+
+Domain: Finance & Risk Analytics
+Nature of Organization: Shared Services Organization
+
+Task Performed:
+   - dashboard analysis
+   - dashboard design
+   -requirements gathering
+
+Goal: Improve dashboard(re-design)
+
+Technology Used:
+Tableau, Excel
+
+--------------------***--------------------
+
+Domain: IT
+Nature of Organization: Web development
+
+Task Performed:
+   - Website Development
+ 
+Goal: Improve and Design Website
+
+Technology Used:
+React
+
+--------------------***--------------------
+
+Domain: Marketing
+Nature of Organization: Listing and renting local homes
+
+Task Performed:
+   - Data collection and data preparation
+   - Data preprocessing
+   - EDA
+   - Dashboard design and creation
+
+Goal: Dashboard creation to visualize and to identify patterns or trends for marketing recommendations
+
+Technology Used:
+Tableau, Excel
+
+--------------------***--------------------
+
+Domain: IT
+Nature of Organization: Company performs Analytics
+
+Task Performed
+ - Web Scrapping
+- Data Preparation
+
+Goal: Get much data to help with Analysis
+
+Technology Used:
+Excel, PowerPoint, Python(pandas, NumPy, matplotlib,seaborn, BeautifulSoup)
+
+--------------------***--------------------
+
+
+Academia(grad school): (though a lot more will follow this are the ones done as of date)
+Projects Done: 
+      - Feature Engineering Real Estate Analytics
+	*Find the factors that influence price negotiations for house prices
+	*Train and perform prediction on a dataset
+	
+      - Real Estate(Mortgage)
+	*Identify white spaces/potential business in the mortgage loan
+	*Provide actionable insights from the perspective Real Estate Analysis
+	*Dashboard(demonstrate relationships and trends for the key metrics)
+	
+	- Healthcare
+	*Accurately predict whether the patients in the dataset have diabetes or not
+
+	- Social Media 
+	*Helping to  create a comprehensive report that analyzes the performance of different categories of social media posts
+	*Data-driven recommendations to clients to improve their social media performance
+
+	- Customer Service
+	*Utilize data wrangling techniques to understand the pattern in the data and visualize the major types of complaints
+	*Statistical analysis using p-values and chi-square values
+	*Kruskal-Wallis H
+
+Tasks Performed:
+	- Data collection(API calls, web search, web scrapping)
+	- Extract Transform Load(ETL) data collected to Database 
+	- Data Modeling
+	- Data Wrangling to prepare data ready for analysis
+	- Exploratory Data Analysis
+	- Descriptive Statistics Analysis
+	- Inferential Statistics Analysis
+	- Hypothesis testing
+	- Model Creation, Validation and Deployment
+	- Feature Engineering
+	- Feature Elimination
+	- Dashboard(Design, Data story telling)
+	
+Technology Used:
+Python, Excel, Tableau, Power BI, HTML, SQL
+Python Libraries(Pandas, Numpy, matplotlib, Plotly, Seaborn, sklearn, scipy, statsmodels)
