@@ -6,3 +6,4 @@ Project Task Performed
 
 Project Technology Used
 -python
+-oracle
