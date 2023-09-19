@@ -147,7 +147,17 @@ Tasks Performed:
 	- Feature Elimination
 	- Dashboard(Design, Data story telling)
 	- Supervised Learning(Regression)
+	- ML Prediction
 	
 Technology Used:
 Python, Excel, Tableau, Power BI, HTML, SQL, MySQL, SQLite
 Python Libraries(Pandas, Numpy, matplotlib, Plotly, Seaborn, sklearn, scipy, statsmodels)
+
+--------------------***--------------------
+
+
+--------------------***--------------------
+
+FOR CHARACTER REFERENCE KINDLY LET ME KNOW
+
+--------------------***--------------------
