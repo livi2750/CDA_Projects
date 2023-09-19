@@ -110,7 +110,7 @@ Excel, PowerPoint, Python(pandas, NumPy, matplotlib,seaborn, BeautifulSoup)
 --------------------***--------------------
 
 
-Academia: (these are the ones done as of date)
+Academia(on going): (these are the ones done as of date)
 Projects Done: 
   - Feature Engineering Real Estate Analytics
 	*Find the factors that influence price negotiations for house prices
