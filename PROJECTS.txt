@@ -62,7 +62,7 @@ Task Performed:
 Goal: Improve dashboard(re-design)
 
 Technology Used:
-Tableau, Excel
+Tableau, Excel, Power BI
 
 --------------------***--------------------
 
@@ -91,7 +91,7 @@ Task Performed:
 Goal: Dashboard creation to visualize and to identify patterns or trends for marketing recommendations
 
 Technology Used:
-Tableau, Excel
+Tableau, Excel, Power BI
 
 --------------------***--------------------
 
