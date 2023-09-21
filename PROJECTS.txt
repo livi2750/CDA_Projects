@@ -75,7 +75,7 @@ Task Performed:
 Goal: Improve and Design Website
 
 Technology Used:
-React
+React, HTML, javaScript
 
 --------------------***--------------------
 
