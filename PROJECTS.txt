@@ -8,8 +8,7 @@ Task Performed
    -exploratory data analysis EDA
    -data visualization
 
-Goal: Analyze their Customer Value via RFM(recency, frequency, monetary)
-         -“customer segmentation”-
+
 
 Technology Used:
 Excel, Python(pandas, NumPy, scikit-learn, matplotlib, seaborn)
@@ -133,22 +132,30 @@ Projects Done:
 	*Statistical analysis using p-values and chi-square values
 	*Kruskal-Wallis H
 
+  - Investment(stocks)
+    *API call for stocks
+    *Do stocks analysis and visualization
+
+  - Transportation(e-hailing)
+    *Design an algorithm which will tell the fare to be charged for a passenger
+
 Tasks Performed:
-	- Data collection(API calls, web search, web scrapping)
-	- Extract Transform Load(ETL) data collected to Database 
-	- Data Modeling
-	- Data Wrangling to prepare data ready for analysis
-	- Exploratory Data Analysis
-	- Descriptive Statistics Analysis
-	- Inferential Statistics Analysis
-	- Hypothesis testing
-	- Model Creation, Validation and Deployment
-	- Feature Engineering
-	- Feature Elimination
-	- Dashboard(Design, Data story telling)
-	- Supervised Learning(Regression)
-	- ML Prediction
-	
+- Data collection(API calls, web search, web scrapping)
+- Extract Transform Load(ETL) data collected to Database 
+- Data Modeling
+- Data Wrangling to prepare data ready for analysis
+- Exploratory Data Analysis
+- Descriptive Statistics Analysis
+- Inferential Statistics Analysis
+- Hypothesis testing
+- Model Creation, Validation and Deployment
+- Feature Engineering
+- Feature Elimination
+- Dashboard(Design, Data story telling)
+- Supervised Learning(Regression, KNN)
+- ML Prediction
+- Model Accuracy
+
 Technology Used:
 Python, Excel, Tableau, Power BI, HTML, SQL, MySQL, SQLite
 Python Libraries(Pandas, Numpy, matplotlib, Plotly, Seaborn, sklearn, scipy, statsmodels)
