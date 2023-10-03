@@ -154,7 +154,7 @@ Tasks Performed:
 - Dashboard(Design, Data story telling)
 - Supervised Learning(Regression, KNN)
 - ML Prediction
-- Model Accuracy
+- Model Evaluation
 
 Technology Used:
 Python, Excel, Tableau, Power BI, HTML, SQL, MySQL, SQLite
