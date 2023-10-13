@@ -121,7 +121,9 @@ Projects Done:
 	*Dashboard(demonstrate relationships and trends for the key metrics)
 	
   - Healthcare
-	*Accurately predict whether the patients in the dataset have diabetes or not
+    * Prediction on cardiovascular diseases
+	* Prepare a report about the data(explain the distribution of the disease and the listed factors) 
+    * Build a baseline model to predict the risk of a heart attack	
 
   - Social Media 
 	*Helping to  create a comprehensive report that analyzes the performance of different categories of social media posts
@@ -139,6 +141,11 @@ Projects Done:
   - Transportation(e-hailing)
     *Design an algorithm which will tell the fare to be charged for a passenger
 
+
+
+  - Income Qualifier
+    * 
+
 Tasks Performed:
 - Data collection(API calls, web search, web scrapping)
 - Extract Transform Load(ETL) data collected to Database 
@@ -152,7 +159,12 @@ Tasks Performed:
 - Feature Engineering
 - Feature Elimination
 - Dashboard(Design, Data story telling)
-- Supervised Learning(Regression, KNN)
+- Supervised Learning:(Linear regression,
+		Logistic regression,
+		Decision tree,
+		SVM algorithm,
+		KNN algorithm,
+		Random forest algorithm)
 - ML Prediction
 - Model Evaluation
 
