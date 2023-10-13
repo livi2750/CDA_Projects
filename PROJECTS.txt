@@ -141,10 +141,11 @@ Projects Done:
   - Transportation(e-hailing)
     *Design an algorithm which will tell the fare to be charged for a passenger
 
-
-
   - Income Qualifier
-    * 
+    * Observable household attributes like the material of their walls and ceiling or the assets found in their homes to classify them and predict their level of need.
+    * Understand the type of data
+	* Prediction Model
+	* Check the accuracy using random forest with cross validation
 
 Tasks Performed:
 - Data collection(API calls, web search, web scrapping)
