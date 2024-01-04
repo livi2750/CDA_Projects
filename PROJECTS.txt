@@ -146,6 +146,20 @@ Projects Done:
     * Understand the type of data
 	* Prediction Model
 	* Check the accuracy using random forest with cross validation
+	
+  - Mercedes-Benz Greener Manufacturing
+    * Data cleaning and preporcessing
+	* Dimen reduction 
+	* XGBOOST
+	* Feature and Label Encoding
+
+  - Book Rental Recommendation
+    * Build a recommender system
+	* Data cleaning and pre processing
+	* Exploratory Data Analysis
+	* Unsupervised learning model
+	* Model evaluation
+
 
 Tasks Performed:
 - Data collection(API calls, web search, web scrapping)
@@ -157,17 +171,26 @@ Tasks Performed:
 - Inferential Statistics Analysis
 - Hypothesis testing
 - Model Creation, Validation and Deployment
-- Feature Engineering
-- Feature Elimination
+- Feature Engineering (Feature Selection)
+- Feature Elimination 
 - Dashboard(Design, Data story telling)
 - Supervised Learning:(Linear regression,
 		Logistic regression,
 		Decision tree,
 		SVM algorithm,
 		KNN algorithm,
-		Random forest algorithm)
+		Random forest algorithm,
+		Naive Bayes)
+- Unsupervised Learning:(KNN, 
+		SVD, 
+		Clustering-KMeans,
+		Dimensionality Reduction)
 - ML Prediction
 - Model Evaluation
+- Boosting 
+- Dimension Reduction (Feature Compression)
+- Model Deployment
+- Hyperparameter Tunning 
 
 Technology Used:
 Python, Excel, Tableau, Power BI, HTML, SQL, MySQL, SQLite
